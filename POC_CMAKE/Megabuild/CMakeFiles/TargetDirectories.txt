@@ -1,0 +1,13 @@
+/home/einfochips/pratik_s/bose/7layer/POC_1_cmake/Megabuild/CMakeFiles/cleen.dir
+/home/einfochips/pratik_s/bose/7layer/POC_1_cmake/Megabuild/CMakeFiles/dsp_os_config.dir
+/home/einfochips/pratik_s/bose/7layer/POC_1_cmake/Megabuild/CMakeFiles/POC_all.dir
+/home/einfochips/pratik_s/bose/7layer/POC_1_cmake/Megabuild/CMakeFiles/edit_cache.dir
+/home/einfochips/pratik_s/bose/7layer/POC_1_cmake/Megabuild/CMakeFiles/rebuild_cache.dir
+/home/einfochips/pratik_s/bose/7layer/POC_1_cmake/Megabuild/EXPORT/CMakeFiles/dsp_api_obj.dir
+/home/einfochips/pratik_s/bose/7layer/POC_1_cmake/Megabuild/EXPORT/CMakeFiles/dsp_api.dir
+/home/einfochips/pratik_s/bose/7layer/POC_1_cmake/Megabuild/EXPORT/CMakeFiles/dsp_api_shared.dir
+/home/einfochips/pratik_s/bose/7layer/POC_1_cmake/Megabuild/EXPORT/CMakeFiles/move_to_lib_path.dir
+/home/einfochips/pratik_s/bose/7layer/POC_1_cmake/Megabuild/EXPORT/CMakeFiles/dsp_all.dir
+/home/einfochips/pratik_s/bose/7layer/POC_1_cmake/Megabuild/EXPORT/CMakeFiles/clean-dsp.dir
+/home/einfochips/pratik_s/bose/7layer/POC_1_cmake/Megabuild/EXPORT/CMakeFiles/edit_cache.dir
+/home/einfochips/pratik_s/bose/7layer/POC_1_cmake/Megabuild/EXPORT/CMakeFiles/rebuild_cache.dir

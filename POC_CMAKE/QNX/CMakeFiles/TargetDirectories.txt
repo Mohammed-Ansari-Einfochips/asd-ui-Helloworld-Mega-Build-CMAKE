@@ -1,0 +1,8 @@
+/home/einfochips/pratik_s/bose/7layer/POC_1_cmake/QNX/CMakeFiles/qnx_obj.dir
+/home/einfochips/pratik_s/bose/7layer/POC_1_cmake/QNX/CMakeFiles/qnx.dir
+/home/einfochips/pratik_s/bose/7layer/POC_1_cmake/QNX/CMakeFiles/qnx_shared.dir
+/home/einfochips/pratik_s/bose/7layer/POC_1_cmake/QNX/CMakeFiles/move_to_lib_path.dir
+/home/einfochips/pratik_s/bose/7layer/POC_1_cmake/QNX/CMakeFiles/QNX_all.dir
+/home/einfochips/pratik_s/bose/7layer/POC_1_cmake/QNX/CMakeFiles/clean-QNX.dir
+/home/einfochips/pratik_s/bose/7layer/POC_1_cmake/QNX/CMakeFiles/edit_cache.dir
+/home/einfochips/pratik_s/bose/7layer/POC_1_cmake/QNX/CMakeFiles/rebuild_cache.dir

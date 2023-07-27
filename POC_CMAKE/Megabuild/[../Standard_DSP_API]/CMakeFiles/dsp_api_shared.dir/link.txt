@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libdsp_api.so -o libdsp_api.so CMakeFiles/dsp_api_obj.dir/dsp_api.c.o 

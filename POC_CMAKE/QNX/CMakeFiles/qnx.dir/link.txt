@@ -1,0 +1,2 @@
+/usr/bin/ar qc libqnx.a CMakeFiles/qnx_obj.dir/qnx.c.o
+/usr/bin/ranlib libqnx.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdsp_api.a CMakeFiles/dsp_api_obj.dir/dsp_api.c.o
+/usr/bin/ranlib libdsp_api.a

@@ -1,0 +1,8 @@
+/home/einfochips/pratik_s/bose/7layer/POC_1_cmake/Standard_DSP_API/CMakeFiles/dsp_api_obj.dir
+/home/einfochips/pratik_s/bose/7layer/POC_1_cmake/Standard_DSP_API/CMakeFiles/dsp_api.dir
+/home/einfochips/pratik_s/bose/7layer/POC_1_cmake/Standard_DSP_API/CMakeFiles/dsp_api_shared.dir
+/home/einfochips/pratik_s/bose/7layer/POC_1_cmake/Standard_DSP_API/CMakeFiles/move_to_lib_path.dir
+/home/einfochips/pratik_s/bose/7layer/POC_1_cmake/Standard_DSP_API/CMakeFiles/dsp_all.dir
+/home/einfochips/pratik_s/bose/7layer/POC_1_cmake/Standard_DSP_API/CMakeFiles/clean-dsp.dir
+/home/einfochips/pratik_s/bose/7layer/POC_1_cmake/Standard_DSP_API/CMakeFiles/edit_cache.dir
+/home/einfochips/pratik_s/bose/7layer/POC_1_cmake/Standard_DSP_API/CMakeFiles/rebuild_cache.dir

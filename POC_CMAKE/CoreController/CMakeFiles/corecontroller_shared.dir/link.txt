@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libcorecontroller.so -o libcorecontroller.so CMakeFiles/core_controller_obj.dir/core_controller.c.o 

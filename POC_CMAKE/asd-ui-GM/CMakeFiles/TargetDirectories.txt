@@ -1,0 +1,6 @@
+/home/einfochips/pratik_s/bose/7layer/POC_1_cmake/asd-ui-GM/CMakeFiles/asd-ui-GM.dir
+/home/einfochips/pratik_s/bose/7layer/POC_1_cmake/asd-ui-GM/CMakeFiles/clean-all.dir
+/home/einfochips/pratik_s/bose/7layer/POC_1_cmake/asd-ui-GM/CMakeFiles/run-asd-ui-GM.dir
+/home/einfochips/pratik_s/bose/7layer/POC_1_cmake/asd-ui-GM/CMakeFiles/GM_all.dir
+/home/einfochips/pratik_s/bose/7layer/POC_1_cmake/asd-ui-GM/CMakeFiles/edit_cache.dir
+/home/einfochips/pratik_s/bose/7layer/POC_1_cmake/asd-ui-GM/CMakeFiles/rebuild_cache.dir

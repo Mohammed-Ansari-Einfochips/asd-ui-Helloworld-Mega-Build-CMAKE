@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libqnx.so -o libqnx.so CMakeFiles/qnx_obj.dir/qnx.c.o 

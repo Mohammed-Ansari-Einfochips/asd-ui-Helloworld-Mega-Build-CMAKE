@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libsafe.so -o libsafe.so CMakeFiles/safe_obj.dir/safe.c.o 

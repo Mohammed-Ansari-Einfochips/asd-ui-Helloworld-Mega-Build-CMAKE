@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsafe.a CMakeFiles/safe_obj.dir/safe.c.o
+/usr/bin/ranlib libsafe.a
