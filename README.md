@@ -1,4 +1,4 @@
-# asd-ui-Helloworld-Mega-Build-CMKAE
+# asd-ui-Helloworld-Mega-Build-CMAKE
 this is similar to asd-ui-Helloworld-Mega-Build but major difference is it has CMAKE implementation
 #sample command list to build and execute are below
 
